@@ -53,7 +53,7 @@ npm install github:Asep-X7/X7-Baileys#main
 const {
   default: makeWASocket,
   // other exports
-} = require('@Asep-X7/baileys');
+} = require('@Asep-X7/X7-Baileys');
 ```
 
 ---
@@ -65,7 +65,7 @@ const {
 const {
   default: makeWASocket,
   Browsers
-} = require('@Asep-X7/baileys');
+} = require('@Asep-X7/X7-Baileys');
 
 const client = makeWASocket({
   browser: Browsers.Asep-X7('Chrome'),
@@ -79,7 +79,7 @@ const {
   default: makeWASocket,
   fetchLatestWAWebVersion,
   Browsers
-} = require('@Asep-X7/baileys');
+} = require('@Asep-X7/X7-Baileys');
 
 const client = makeWASocket({
   browser: Browsers.Asep-X7('Chrome'),
@@ -100,7 +100,7 @@ console.log("Your pairing code: " + code);
 const {
   default: makeWASocket,
   makeInMemoryStore
-} = require('@Asep-X7/baileys');
+} = require('@Asep-X7/X7-Baileys');
 const pino = require('pino');
 
 const store = makeInMemoryStore({
