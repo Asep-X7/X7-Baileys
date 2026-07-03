@@ -1,5 +1,5 @@
 {
-  "name": "@poucode/baileys",
+  "name": "github:Asep-X7/X7-Baileys",
   "type": "module",
   "version": "1.0.0",
   "description": "A WebSockets library for interacting with WhatsApp Web \u2014 AsepX7 fork of Baileys",
@@ -12,10 +12,10 @@
     "wa-bot",
     "whatsapp bot"
   ],
-  "homepage": "https://github.com/pou-code/Baileys",
+  "homepage": "https://github.com/Asep-X7/X7-Baileys",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pou-code/Baileys.git"
+    "url": "git+https://github.com/Asep-X7/X7-Baileys.git"
   },
   "license": "MIT",
   "author": "AsepX7",
@@ -140,7 +140,7 @@
     "node": ">=20.0.0"
   },
   "bugs": {
-    "url": "https://github.com/pou-code/Baileys/issues"
+    "url": "https://github.com/Asep-X7/X7-Baileys/issues"
   },
   "contributors": [
     "WhiskeySockets (original Baileys authors)"
