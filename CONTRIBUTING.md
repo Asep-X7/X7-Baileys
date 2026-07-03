@@ -1,13 +1,13 @@
-# Contributing to PouCode
+# Contributing to AsepX7
 
-Thanks for your interest in contributing! PouCode is a fork of
+Thanks for your interest in contributing! AsepX7 is a fork of
 [Baileys](https://github.com/WhiskeySockets/Baileys); contributions here follow
 similar conventions to the upstream project.
 
 ## Reporting issues
 
 - Search existing issues before opening a new one.
-- Include: Node.js version, `@poucode/baileys` version, a minimal reproduction,
+- Include: Node.js version, `@Asep-X7/X7-Baileys` version, a minimal reproduction,
   and the relevant log output (with sensitive data like phone numbers redacted).
 
 ## Submitting changes
@@ -22,8 +22,8 @@ similar conventions to the upstream project.
 ## Development setup
 
 ```bash
-git clone https://github.com/poucode/baileys.git
-cd baileys
+git clone https://github.com/Asep-X7/X7-Baileys.git
+cd X7-Baileys
 npm install
 npm run build:tsc
 npm test
